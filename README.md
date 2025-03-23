@@ -1,6 +1,6 @@
 # Pandas Experiments 🐼
 
-Welcome to **Pandas Experiments**! This repository is a collection of Jupyter notebooks and Python scripts where I explore different functionalities of **pandas**, a powerful data analysis library in Python.
+Welcome to **Pandas Prac**! This repository is a collection of Jupyter notebooks and Python scripts where I explore different functionalities of **pandas**, a powerful data analysis library in Python.
 
 ## 📌 About This Repository
 
